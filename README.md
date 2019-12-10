@@ -10,6 +10,7 @@
 ## Link
 
   Project is hosted using [GitHub Pages](https://ckemme34.github.io/assignment4-cisc3130/static.html).
+  Write up can be found at: (https://docs.google.com/document/d/19Ko-47G0ddDvvMc4EEBquKAB3EqRXbLjRkKE0OKCs7g/edit?usp=sharing)
 
 ## Authors
 
