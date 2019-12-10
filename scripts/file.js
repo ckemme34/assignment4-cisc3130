@@ -39,7 +39,7 @@ fetch('scripts/output.txt')
                 // set a chart title
                 chart.title('');
                 // set an array of angles at which the words will be laid out
-                chart.angles([0, 45, 90]);
+                chart.angles([0]);
                 // enable a color range
                 chart.colorRange(true);
                 // set the color range length
